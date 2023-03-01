@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Harmeet Rai
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Stanford University
 email: address@yoursite.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/Harmeetrai/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi there! My name is Harmeet and I am an entry-level programmer. I am currently finishing my computer science degree at Simon Fraser University. During my studies, I gained experience in a variety of programming languages such as Java, Python, C, and JavaScript.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am eager to apply my knowledge and continue learning as a member of a collaborative and innovative team. In my free time, I enjoy staying up-to-date with the latest technology trends and tinkering with new programming projects. I am excited to start my career and see where my passion for coding takes me.

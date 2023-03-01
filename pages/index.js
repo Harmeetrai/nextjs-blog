@@ -21,10 +21,10 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
 
-      <h1 className="select-none py-14 text-center text-[23vw] font-extrabold leading-none tracking-tightest sm:text-10xl">
+      <h1 className="select-none py-14 text-center text-[23vw] font-extrabold leading-none tracking-tightest text-white sm:text-10xl">
         <span
           data-content="Welcome"
-          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-1 before:px-2 before:text-center before:text-black before:content-[attr(data-content)]"
+          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-1 before:px-2 before:text-center before:text-white before:content-[attr(data-content)]"
         >
           <span className="animate-gradient-foreground-1 bg-gradient-to-r from-gradient-1-start to-gradient-1-end bg-clip-text px-2 text-transparent">
             Welcome
@@ -32,7 +32,7 @@ export default function Home({ posts }) {
         </span>
         <span
           data-content="to my"
-          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-2 before:px-2 before:text-center before:text-black before:content-[attr(data-content)]"
+          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-2 before:px-2 before:text-center before:text-white before:content-[attr(data-content)]"
         >
           <span className="animate-gradient-foreground-2 bg-gradient-to-r from-gradient-2-start to-gradient-2-end bg-clip-text px-2 text-transparent">
             to my
@@ -40,7 +40,7 @@ export default function Home({ posts }) {
         </span>
         <span
           data-content="Blog"
-          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-3 before:px-2 before:text-center before:text-black before:content-[attr(data-content)]"
+          className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:z-0 before:block before:w-full before:animate-gradient-background-3 before:px-2 before:text-center before:text-white before:content-[attr(data-content)]"
         >
           <span className="animate-gradient-foreground-3 bg-gradient-to-r from-gradient-3-start to-gradient-3-end bg-clip-text px-2 text-transparent">
             Blog

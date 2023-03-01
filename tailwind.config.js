@@ -52,6 +52,7 @@ module.exports = {
           },
           '33.333%, 83.333%': {
             opacity: 0,
+            // color is set white to prevent the text from being visible
           },
         },
         'gradient-background-1': {
